@@ -1,4 +1,4 @@
 # Site Teste
 #### Este site foi desenvolvido com o intuito de estudar o framework Bootstrap 4.
 
-![screenshot](https://user-images.githubusercontent.com/63068481/82774389-101f1700-9e1b-11ea-94cc-54f783afd1cf.png)
+![screenshot](https://user-images.githubusercontent.com/63068481/82775155-4198e200-9e1d-11ea-9278-67e18c2bb8e5.png)
